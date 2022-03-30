@@ -46,6 +46,9 @@ carryover of a contaminant that absorbs at ~230nm so the 260/230 ratio is not go
 26. Flick to resuspend and incubate at RT 2 minutes
 27. Place on magnet and transfer eluate to new 1.7mL tube
 
+Link to some good info on SPRI beads:
+https://diagnostech.co.za/next-generation-sequencing-tips-n-tricks-part-2/
+
 ### Quality check
 28. Following bead clean-up I see a decrease in total amount of DNA, but the 260/230 is MUCH better
 29. Submit 8-10uL to the UMGC for fluoresence quantification and size distribution
