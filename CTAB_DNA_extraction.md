@@ -11,6 +11,7 @@ This is for 10mL
 
 
 1. Before starting make modified CTAB buffer, turn heating block on to 65c, and add 20uL Betamercaptoethanol per mL CTAB buffer
+    - I believe this is a higher amount of betamercapto than 'normal'
     - only add betamercapto to the amount you need to use, leftover CTAB buffer can be stored
 3. Grind plant tissue in liquid N2 in pre-cooled mortar and pestle - add more liquid N2 as needed - until a fine powder
     - I'm not exactly sure what the optimum amount of tissue is for each prep, I believe I was somewhere in the 250mg ballpark
