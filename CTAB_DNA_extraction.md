@@ -62,3 +62,15 @@ shorter fragments and (mainly) to concentrate the DNA a bit.
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/43852873/161580988-3b46dd1e-307a-4424-a699-def794d27ce2.png">
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/43852873/161581038-1fe8bfc6-50c3-4619-8cb8-ce2418e00893.png">
+
+### SRE
+In retrospect I'm not sure if this was necessary, but I did it
+1. 60uL DNA + 60uL BRE Buffer in 1.5mL tube - gently mix
+2. Spin 10,000 xG 30 minutes at RT
+3. Pipette off supernatant -- avoid where the pellet should be
+4. Add 200uL freshly made 70% EtOH - do not vortex - spin 2 minutes and pipette off
+5. Repeat wash
+6. Allow to dry ~2 minutes
+7. Add Elution Buffer and inucabate at RT 20 minutes
+### Note: I did not see any evidence of a the pellet and was concerned that I lost the DNA, but QC looked good
+
