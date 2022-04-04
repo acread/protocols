@@ -53,3 +53,14 @@ https://diagnostech.co.za/next-generation-sequencing-tips-n-tricks-part-2/
 28. Following bead clean-up I see a decrease in total amount of DNA, but the 260/230 is MUCH better
 29. Submit 8-10uL to the UMGC for fluoresence quantification and size distribution
 30. cross fingers
+
+### UMGC Results
+I submitted samples from both the cleaned up and non-bead cleaned preps \
+Based on the results I am going to use sample 1 (cleaned) BUT I am going to do a short read eliminator kit to get rid of \
+shorter fragments and (mainly) to concentrate the DNA a bit.
+
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/43852873/161580988-3b46dd1e-307a-4424-a699-def794d27ce2.png">
+
+<img width="592" alt="image" src="https://user-images.githubusercontent.com/43852873/161581038-1fe8bfc6-50c3-4619-8cb8-ce2418e00893.png">
+
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/43852873/161580988-3b46dd1e-307a-4424-a699-def794d27ce2.png">
