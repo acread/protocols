@@ -56,7 +56,7 @@ https://diagnostech.co.za/next-generation-sequencing-tips-n-tricks-part-2/
 
 ### UMGC Results
 I submitted samples from both the cleaned up and non-bead cleaned preps \
-Based on the results I am going to use sample 1 (cleaned) BUT I am going to do a short read eliminator kit to get rid of \
+Based on the results I am going to use sample 3 (cleaned) BUT I am going to do a short read eliminator kit to get rid of \
 shorter fragments and (mainly) to concentrate the DNA a bit.
 
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/43852873/161580988-3b46dd1e-307a-4424-a699-def794d27ce2.png">
