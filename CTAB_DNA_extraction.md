@@ -64,6 +64,9 @@ shorter fragments and (mainly) to concentrate the DNA a bit.
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/43852873/161581038-1fe8bfc6-50c3-4619-8cb8-ce2418e00893.png">
 
+### NOTE - DIN is a measure of DNA integrity - I believe it is basically calculated as the percent of DNA that falls in a tight band \
+### based on the tapestation gel output (samples with a large size distribution will have a low DIN)
+
 ### SRE
 In retrospect I'm not sure if this was necessary, but I did it
 1. 60uL DNA + 60uL BRE Buffer in 1.5mL tube - gently mix
