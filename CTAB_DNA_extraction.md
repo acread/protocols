@@ -1,5 +1,6 @@
 # Modified CTAB
 This is a mix of a Springer Lab protocol and suggestions in a YouTube recording of a HMW extraction protocol presentation
+https://www.youtube.com/watch?v=acaFw9mHGVw
 
 Modified CTAB buffer: \
 This is for 10mL
